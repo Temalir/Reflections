@@ -1,0 +1,24 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Well, it allows me to list the changes between and old and new document. It places a - next to the line that is not present in the new file, and a + where the line is not present in the nold document.
+This allows me to quickly find any possible errors by looking at the changes made to code from the previously working version.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having an entire history of a file will allow me to find any changes made and then compare them to see 
+where there could possibly have been a mistake made. 
+It will allow me to go back to the last time a piece of code worked, 
+where I can then compare it to the code that is now not working.
+The history helps because sometimes the mistake is present in a number of previous versions, 
+so you must go back a few versions to actually find where it last worked.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+The pros are :
+- I can create logical commits. By this I mean I can create them when it makes sense to do so. Like once im done with a bit of code relating to something specific.
+- I dont get too many or too few commits.
+
+Cons:
+- You can strong user error here, where you would maybe forget to commit. 
+
+How do you want to use git?
+- I will be using git when doing my python programming. Learning to get used to version control.
